@@ -1,0 +1,22 @@
+.icon:hover{
+    cursor: pointer;
+    border:0px 0px 1px solid beige ;
+}
+.img{
+    height: 50px !important;
+    width: 50px !important;
+}
+#imagecontainer {
+    background: url("https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png")repeat;
+    border: 1px solid;
+    height: 100%;
+    max-width: -webkit-fill-available;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    
+
+  }
+  div.scroll {
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
